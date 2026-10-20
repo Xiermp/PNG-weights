@@ -1,0 +1,178 @@
+{
+ "base": {
+  "ppl_wiki2_test": 23.589,
+  "ppl_tinyshakespeare": 56.302,
+  "gens": [
+   " the capital of the French Republic, and the capital of the French Republic is the capital of the French Republic.\n\nThe French Republic is the capital of the French Republic.\n\nThe French Republic",
+   " girl who was a little girl. She was a little girl. She was a little girl. She was a little girl. She was a little girl. She was a little girl. She was a",
+   " the speed of light is proportional to the distance between two points. The speed of light is proportional to the distance between two points.\n\nThe theory of relativity states that the speed of light is proportional",
+   " was the first American to conquer the Atlantic Ocean.\n\nThe first American to conquer the Atlantic Ocean.\n\nThe first American to conquer the Atlantic Ocean.\n\nThe first American to conquer the",
+   "\n\nreturn n\n\ndef fibonacci(n):\n\nreturn n\n\ndef fibonacci(n):\n\nreturn n\n\ndef fibonacci(n):\n",
+   " to make a cup of tea.\n\nThe best way to make a cup of tea is to make a cup of tea. The best way to make a cup of tea is to make a cup"
+  ],
+  "sec": 121.1,
+  "fp32_unique_mb": 497.8,
+  "onnx_mb": 664.9
+ },
+ "old_v2": {
+  "ppl_wiki2_test": 27.94,
+  "ppl_tinyshakespeare": 63.978,
+  "kl": 0.15039,
+  "top1": 0.7788,
+  "gens": [
+   " the capital of the French Republic. The capital of the Republic is the capital of the Republic of Luxembourg. The capital of the Republic is the capital of the Republic of the Netherlands. The capital of the",
+   " bit of a lull in the game. I was able to get a few more minutes of playtime out of it, but I was still not able to get a couple of minutes of playtime out",
+   " the speed of light is proportional to the speed of light. The speed of light is determined by the laws of physics. The speed of light is determined by the laws of physics.\n\nThe theory",
+   " was the first to establish a colony in the New World. Columbus was a native of the New World, and he was a member of the New World's first council. He was a member of the",
+   "\n\nif n > 0:\n\nreturn fibonacci(n)\n\nelse :\n\nreturn fibonacci(n)\n\nreturn fibonacci(n)\n\n",
+   " to make it in a cupboard. You can make it in a cupboard by pouring it into a bowl and then pouring it into a bowl. You can make it in a cupboard by pouring"
+  ],
+  "file_mb": 182.69,
+  "payload_mb": 201.33,
+  "linear_bpw": 4.25,
+  "total_bpw_unique": 11.745,
+  "relerr_linear_mean": 0.113,
+  "relerr_wte": 0.0,
+  "build_sec": 17.5,
+  "load_sec": 5.2,
+  "zlib_gain_pct": 9.3
+ },
+ "A_clip": {
+  "ppl_wiki2_test": 26.416,
+  "ppl_tinyshakespeare": 56.852,
+  "kl": 0.15332,
+  "top1": 0.7795,
+  "gens": [
+   " the capital of the French Republic. The capital of the Republic is the capital of the Republic. The capital of the Republic is the capital of the Republic. The capital of the Republic is the capital of",
+   " bit of a problem.\n\n\"I was in a car with a broken window. I was driving down the street. I was driving down the street. I was driving down the street. I",
+   " the speed of light is proportional to the speed of light. The speed of light is proportional to the speed of light. The speed of light is proportional to the speed of light. The speed of light",
+   " was the first city in the world to have a city-wide public health program.\n\n\"The city's health program was a success,\" said Dr. John H. Houghton, a",
+   "\n\nfor n in range(n):\n\nfor n in range(n):\n\nfor n in range(n):\n\nfor n in range(n):\n\nfor n",
+   " to make a cup of tea.\n\nThe best way to make a cup of tea is to make a cup of tea.\n\nThe best way to make a cup of tea is to make"
+  ],
+  "file_mb": 109.11,
+  "payload_mb": 124.13,
+  "linear_bpw": 4.25,
+  "total_bpw_unique": 7.014,
+  "relerr_linear_mean": 0.0999,
+  "relerr_wte": 0.0,
+  "build_sec": 20.1,
+  "load_sec": 4.0,
+  "zlib_gain_pct": 12.1
+ },
+ "B_emb8": {
+  "ppl_wiki2_test": 26.748,
+  "ppl_tinyshakespeare": 57.096,
+  "kl": 0.16595,
+  "top1": 0.7539,
+  "gens": [
+   " the capital of the French Republic. The capital of the Republic is the capital of the Republic. The capital of the Republic is the capital of the Republic. The capital of the Republic is the capital of",
+   " bit of a problem.\n\n\"I was in a car with a broken window. I was driving to work and I was driving to work and I was driving to work and I was driving to",
+   " the speed of light is proportional to the speed of light. The speed of light is proportional to the speed of light. The speed of light is proportional to the speed of light. The speed of light",
+   " was the first city in the United States to have a city-wide referendum on the issue.\n\n\"The city of Columbus is a city of people,\" said Dr. John H. Hough",
+   "\n\nreturn (n - 1)\n\ndef fibonacci(n):\n\nreturn (n - 1)\n\ndef fibonacci(n):\n\nreturn (n -",
+   " to make it with a cup of tea.\n\nThe best way to make a cup of tea is to make it with a cup of tea.\n\nThe best way to make a cup of"
+  ],
+  "file_mb": 80.47,
+  "payload_mb": 86.74,
+  "linear_bpw": 4.25,
+  "total_bpw_unique": 5.173,
+  "relerr_linear_mean": 0.0999,
+  "relerr_wte": 0.0063,
+  "build_sec": 24.6,
+  "load_sec": 4.1,
+  "zlib_gain_pct": 7.2
+ },
+ "C_g32": {
+  "ppl_wiki2_test": 25.799,
+  "ppl_tinyshakespeare": 57.323,
+  "kl": 0.1192,
+  "top1": 0.7971,
+  "gens": [
+   " the capital of the French Republic. The French Republic is a republic of the French people. The French Republic is a republic of the French people.\n\nThe French Republic is a republic of the French",
+   " girl in the corner of the room. She was a little girl, and she was a little girl. She was a little girl. She was a little girl. She was a little girl. She",
+   " the universe is a constant, and that the universe is a constant. The universe is a constant because it is a constant. The universe is a constant because it is a constant. The universe is a",
+   " was the first city in the United States to have a city-wide \"City of the People\" (a.k.a. \"City of the People's Republic\") and was the first city",
+   "\n\nfor i in range(n):\n\nif n > 0:\n\nreturn fibonacci(n)\n\nelse :\n\nreturn fibonacci(n)\n\n",
+   " to make a cup of tea.\n\nThe best way to make a cup of tea is to make a cup of tea.\n\nThe best way to make a cup of tea is to make"
+  ],
+  "file_mb": 83.52,
+  "payload_mb": 89.4,
+  "linear_bpw": 4.5,
+  "total_bpw_unique": 5.369,
+  "relerr_linear_mean": 0.0897,
+  "relerr_wte": 0.0063,
+  "build_sec": 23.7,
+  "load_sec": 3.4,
+  "zlib_gain_pct": 6.6
+ },
+ "D_q3": {
+  "ppl_wiki2_test": 48.27,
+  "ppl_tinyshakespeare": 84.894,
+  "kl": 0.70981,
+  "top1": 0.571,
+  "gens": [
+   " the capital of the French Republic. The French Republic is the country of the French Republic. The French Republic is the country of the French Republic. The French Republic is the country of the French Republic.",
+   " bit of a surprise. The first thing you do when you are in a time when you are in a time when you are in a time when you are in a time when you are in a time",
+   " the universe is a \"space is a \"space is a \"space is a \"space is a \"space is a \"space is a \"space is a \"space is a \"space is a",
+   " was the first American to be a member of the United States. He was born in the United States and was born in the United States and was born in the United States and was born in the United",
+   "\n\nThe first step is to define the fibonacci number.\n\nThe first step is to define the fibonacci number.\n\nThe first step is to define the fibonacci",
+   " to use a cup of tea with a cup of tea with a cup of tea with a cup of tea with a cup of tea with a cup of tea with a cup of tea with a cup of"
+  ],
+  "file_mb": 72.39,
+  "payload_mb": 76.13,
+  "linear_bpw": 3.25,
+  "total_bpw_unique": 4.654,
+  "relerr_linear_mean": 0.2022,
+  "relerr_wte": 0.0063,
+  "build_sec": 23.6,
+  "load_sec": 5.5,
+  "zlib_gain_pct": 4.9
+ },
+ "E_q3g32": {
+  "ppl_wiki2_test": 37.211,
+  "ppl_tinyshakespeare": 80.633,
+  "kl": 0.49157,
+  "top1": 0.6367,
+  "gens": [
+   " the country of the French Revolution. The French Revolution was a political and social revolution which was carried out by the French Revolution. The French Revolution was a political and social revolution which was carried out by the",
+   " girl who was a little girl. She was a little girl. She was a little girl. She was a little girl. She was a little girl. She was a little girl. She was a",
+   " the universe is a finite state, and that the universe is a finite state. The theory of relativity states that the universe is a finite state. The theory of relativity states that the universe is a finite",
+   " was the first American to be a member of the United States Army. He was a member of the United States Army Reserve and was a member of the United States Army Reserve Reserve Reserve Reserve was a member",
+   "\n\nThe first step is to compute the number of fibonacci(n):\n\nThe second step is to compute the number of fibonacci(n):\n\nThe third step is",
+   " to use a cup of tea. The best way to make a cup of tea is to use a cup of tea. The best way to make a cup of tea is to use a cup of tea"
+  ],
+  "file_mb": 74.79,
+  "payload_mb": 78.78,
+  "linear_bpw": 3.5,
+  "total_bpw_unique": 4.808,
+  "relerr_linear_mean": 0.1863,
+  "relerr_wte": 0.0063,
+  "build_sec": 25.8,
+  "load_sec": 5.3,
+  "zlib_gain_pct": 5.1
+ },
+ "F_emb4": {
+  "ppl_wiki2_test": 919.637,
+  "ppl_tinyshakespeare": 6215.95,
+  "kl": 4.1238,
+  "top1": 0.2388,
+  "gens": [
+   " simply the home of the 100.\"\n\n.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100.\" 100",
+   " less.\"\n\n.\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\".\"",
+   " the Universe simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply",
+   " was the home of the Ohio National Committee of the National Committee of the National Committee of the National Committee of the National Committee of the National Committee of the National Committee of National Committee of the National Committee of",
+   " 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100",
+   " simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply simply"
+  ],
+  "file_mb": 61.33,
+  "payload_mb": 67.44,
+  "linear_bpw": 4.25,
+  "total_bpw_unique": 3.943,
+  "relerr_linear_mean": 0.0999,
+  "relerr_wte": 0.1012,
+  "build_sec": 21.0,
+  "load_sec": 2.6,
+  "zlib_gain_pct": 9.1
+ }
+}

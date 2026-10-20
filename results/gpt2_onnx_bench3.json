@@ -1,0 +1,135 @@
+{
+ "C_g32_ref": {
+  "ppl_wiki2_test": 25.799,
+  "ppl_tinyshakespeare": 57.323,
+  "kl": 0.1192,
+  "top1": 0.7971,
+  "file_mb": 83.52
+ },
+ "L_bytes": {
+  "file_mb": 89.11,
+  "linear_bpw_payload": 8.5,
+  "total_bpw": 5.728,
+  "relerr_linear_mean": 0.0897,
+  "build_sec": 27.8,
+  "load_sec": 3.5,
+  "bitexact_vs_C": true,
+  "ppl_wiki2_test": 25.799,
+  "ppl_tinyshakespeare": 57.323,
+  "kl": 0.1192,
+  "top1": 0.7971
+ },
+ "L_rans": {
+  "file_mb": 83.14,
+  "linear_bpw_payload": 4.214,
+  "total_bpw": 5.345,
+  "relerr_linear_mean": 0.0897,
+  "build_sec": 24.5,
+  "load_sec": 4.4,
+  "bitexact_vs_C": true,
+  "ppl_wiki2_test": 25.799,
+  "ppl_tinyshakespeare": 57.323,
+  "kl": 0.1192,
+  "top1": 0.7971
+ },
+ "Q_dq": {
+  "file_mb": 81.98,
+  "linear_bpw_payload": 4.027,
+  "total_bpw": 5.27,
+  "relerr_linear_mean": 0.0897,
+  "build_sec": 23.4,
+  "load_sec": 4.2,
+  "ppl_wiki2_test": 25.791,
+  "ppl_tinyshakespeare": 56.75,
+  "kl": 0.11828,
+  "top1": 0.7961,
+  "gens": [
+   " the capital of the French Republic. The French Republic is a republic of the French people. The French Republic is a republic of the French people.\n\nThe French Republic is a republic of the French",
+   " girl in the corner of the room. She was a little girl, and she was a little girl. She was a little girl. She was a little girl. She was a little girl. She",
+   " the universe is a constant, and that the universe is a constant. The universe is a constant because it is a constant. The universe is a constant because it is a constant. The universe is a",
+   " was the first city in the world to have a city-wide \"City of the People\" (a term coined by the French philosopher and philosopher Voltaire in 1790).\n\nThe city was",
+   "\n\nfor i in range(n):\n\nif n > 0:\n\nfor i in range(n):\n\nif n < 0:\n\nfor i in range(n",
+   " to make a cup of tea.\n\nThe best way to make a cup of tea is to make a cup of tea.\n\nThe best way to make a cup of tea is to make"
+  ]
+ },
+ "Q_rot": {
+  "file_mb": 83.84,
+  "linear_bpw_payload": 4.5,
+  "total_bpw": 5.39,
+  "relerr_linear_mean": 0.0864,
+  "build_sec": 27.7,
+  "load_sec": 6.3,
+  "ppl_wiki2_test": 25.284,
+  "ppl_tinyshakespeare": 52.116,
+  "kl": 0.11226,
+  "top1": 0.8101,
+  "gens": [
+   " a city of more than 100 million people, and it is home to the world's largest concentration of French Jews.\n\nThe city is home to the largest concentration of French Jews.\n\nThe",
+   " bit of a sense of dread.\n\n\"I'm not sure if it's a good thing or not,\" he said. \"I don't know what it is. I don't know what",
+   " the universe is a continuous, continuous, and continuous. The universe is a continuous, continuous, and continuous. The universe is a continuous, continuous, and continuous. The universe is a continuous, continuous",
+   " was the first city to have a city council vote on a city council resolution.\n\nThe resolution was passed by a vote of 17-1.\n\nThe resolution was signed by Mayor William H",
+   "\n\nfor i in range(0, n):\n\nfor j in range(0, n):\n\nfor k in range(0, n):\n\nfor l in range(",
+   " to make a cup of tea with a little bit of water.\n\nIf you're not sure how to make a cup of tea, you can use a spoon to make a cup of tea."
+  ]
+ },
+ "Q_all4": {
+  "file_mb": 82.33,
+  "linear_bpw_payload": 4.06,
+  "total_bpw": 5.293,
+  "relerr_linear_mean": 0.0864,
+  "build_sec": 30.3,
+  "load_sec": 7.7,
+  "ppl_wiki2_test": 25.322,
+  "ppl_tinyshakespeare": 52.767,
+  "kl": 0.11015,
+  "top1": 0.8113,
+  "gens": [
+   " a city of more than 100 million people, and it is home to the world's largest concentration of French Jews.\n\nThe city is home to the largest concentration of French Jews.\n\nThe",
+   " bit of a sense of dread.\n\n\"I'm not sure what it is,\" she said. \"I don't know what it is. I don't know what it is. I don",
+   " the universe is a continuous, continuous, and continuous. The universe is a continuous, continuous, and continuous. The universe is a continuous, continuous, and continuous. The universe is a continuous, continuous",
+   " was the first city to have a city council vote on a city council resolution.\n\nThe resolution was passed by a vote of 17-1.\n\nThe resolution was signed by Mayor William H",
+   "\n\nfor i in range(0, n):\n\nif i == 0 :\n\nreturn i\n\nelse :\n\nreturn n\n\nreturn fib(n)\n\ndef",
+   " to make a cup of tea with a little bit of water.\n\nIf you're not sure how to make a cup of tea, you can use a spoon to make a cup of tea."
+  ]
+ },
+ "Q_all3": {
+  "file_mb": 71.74,
+  "linear_bpw_payload": 3.064,
+  "total_bpw": 4.612,
+  "relerr_linear_mean": 0.1803,
+  "build_sec": 31.3,
+  "load_sec": 7.7,
+  "ppl_wiki2_test": 41.616,
+  "ppl_tinyshakespeare": 64.236,
+  "kl": 0.50084,
+  "top1": 0.6294,
+  "gens": [
+   " the capital of the world.\n\nThe capital of the world is the capital of the world.\n\nThe capital of the world is the capital of the world.\n\nThe capital of the",
+   " girl named Alice, and she was a little girl called Alice. She was a little girl called Alice. She was a little girl called Alice. She was a little girl called Alice. She was a",
+   " the universe is a constant.\n\nThe theory of relativity states that the universe is a constant.\n\nThe theory of relativity states that the universe is a constant.\n\nThe theory of relativity",
+   " was the first city to be named after Columbus.\n\nIn 1492, Columbus was the first city to be named after Columbus.\n\nIn 1492, Columbus was the first city to be",
+   "\n\n# This is a simple example of a Fibonacci.\n\n# This is a Fibonacci.\n\n# This is a Fibonacci.\n\n# This is a",
+   " to make it.\n\nIf you want to make a cup of tea, you can use a cup of tea.\n\nIf you want to make a cup of tea, you can use a"
+  ]
+ },
+ "Q_rot3g64": {
+  "file_mb": 70.14,
+  "linear_bpw_payload": 2.944,
+  "total_bpw": 4.509,
+  "relerr_linear_mean": 0.1934,
+  "build_sec": 29.5,
+  "load_sec": 7.4,
+  "ppl_wiki2_test": 45.238,
+  "ppl_tinyshakespeare": 77.05,
+  "kl": 0.6083,
+  "top1": 0.6143,
+  "gens": [
+   " a city of the people, and it is a city of the people.\n\nThe city of Paris is a city of the people, and it is a city of the people.\n\nThe",
+   " bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little",
+   " the universe is a \"superposition\" that is not a \"superposition\" that is not a \"superposition\" that is not a \"superposition\" that is not a \"superposition\"",
+   " was a city of the people. It was a city of the people. It was a city of the people. It was a city of the people. It was a city of the people. It",
+   "\n\n#!/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/bin/",
+   " to make a cup of tea.\n\nThe best way to make a cup of tea is to make a cup of tea.\n\nThe best way to make a cup of tea is to make"
+  ]
+ }
+}

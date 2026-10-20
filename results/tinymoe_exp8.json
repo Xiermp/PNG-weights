@@ -1,0 +1,11 @@
+{
+ "model": "FlameF0X/TinyMoE-200m-2x16",
+ "note": "run by the author on own machine with exp8_moe.py (lab3 codec); 16k tokens wikitext-2, ctx 512; base ppl ~107.2",
+ "old_v2":  {"ppl": 109.161, "ppl_ratio": 1.018,  "kl": 0.0272, "top1": 0.8828, "mb": 135.6},
+ "B_emb8":  {"ppl": 105.831, "ppl_ratio": 0.987,  "kl": 0.026,  "top1": 0.8774, "mb": 117.0},
+ "C_g32":   {"ppl": 106.12,  "ppl_ratio": 0.9897, "kl": 0.0223, "top1": 0.8984, "mb": 122.7},
+ "R_all4":  {"ppl": 107.034, "ppl_ratio": 0.9982, "kl": 0.0215, "top1": 0.8965, "mb": 119.6},
+ "R_dq4":   {"ppl": 106.051, "ppl_ratio": 0.989,  "kl": 0.0222, "top1": 0.9009, "mb": 119.6},
+ "E_q3g32": {"ppl": 111.187, "ppl_ratio": 1.0369, "kl": 0.0814, "top1": 0.7793, "mb": 104.6},
+ "R_all3":  {"ppl": 110.47,  "ppl_ratio": 1.0302, "kl": 0.0847, "top1": 0.7925, "mb": 98.4}
+}

@@ -1,0 +1,22 @@
+{
+ "model": "/home/claude/pngq/hf_gpt2",
+ "tokens": 8192,
+ "ctx": 512,
+ "base_ppl": 33.546,
+ "variants": {
+  "gpt2_q4.png": {
+   "mb": 81.4,
+   "ppl": 35.955,
+   "ppl_ratio": 1.0718,
+   "kl": 0.108,
+   "top1": 0.8
+  },
+  "gpt2_q4-rot.png": {
+   "mb": 81.7,
+   "ppl": 35.934,
+   "ppl_ratio": 1.0712,
+   "kl": 0.0883,
+   "top1": 0.8167
+  }
+ }
+}
