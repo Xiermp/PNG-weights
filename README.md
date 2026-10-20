@@ -60,7 +60,7 @@ python examples/eval.py MODEL a.png b.png      # ppl / KL / top-1 vs the origina
 `MODEL` is a hub id or a local directory. Which preset?
 
 * **MoE models** → `q4`. Experts have no outliers, rotation does nothing for them.
-* **dense models** → `q4-rot`. On GPT-2 it cut KL by ~20 % at the same size.
+* **dense models** → `q4-rot`. On GPT-2 it cut KL by 7–18 % (depending on the eval set) at the same size.
 * `q3` is ~15 % smaller but clearly worse without calibration (see results).
 
 From Python:

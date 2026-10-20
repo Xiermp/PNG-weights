@@ -18,8 +18,9 @@ rtnx   [R][C][bits][group][N][enc][rot][seed][sgroup] + scales + codes
          sgroup 0 fp16 scales | k>0 u8 scales, fp16 min/max per k groups ("double quant")
 alias  [src index][transpose]   tied weights stored once
 
-Reconstruction for rtn/rtnx: w = (code - half) * scale, half = (2**bits - 1) // 2
-(the top code 2**bits - 1 is never produced; kept for compatibility with v1 files).
+Reconstruction for rtn/rtnx: w = (code - half) * scale, half = (2**bits - 1) // 2,
+so the code range is -half .. +half+1 (e.g. -7..+8 for 4 bits). The top code is only produced
+when clip search shrinks the scale (v1 files never use it).
 """
 import hashlib
 import json

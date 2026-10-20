@@ -1,5 +1,5 @@
 {
- "model": "/home/claude/pngq/hf_gpt2",
+ "model": "openai-community/gpt2 (HF checkpoint rebuilt from the ONNX zoo export)",
  "tokens": 8192,
  "ctx": 512,
  "base_ppl": 33.546,
@@ -18,5 +18,6 @@
    "kl": 0.0883,
    "top1": 0.8167
   }
- }
+ },
+ "text": "wikitext-2 test (tokenized pytorch/examples copy), 8192 tokens"
 }
